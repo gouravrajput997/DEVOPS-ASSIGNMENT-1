@@ -1,0 +1,52 @@
+pwd- current terminal location
+ls
+man
+uptime
+whoami
+cal
+date
+touch
+cat 
+vi/vim
+mkdir
+ifconfig
+sudo 
+uname
+hostname 
+cat
+cd
+cp 
+mv
+rm 
+rmdir
+find 
+grep
+sed
+head
+tail
+xargs
+tee
+cut
+awk
+crontab
+curl 
+wget
+sort
+diff
+mount/umount
+scp
+ping
+df/du
+fdisk -l
+free
+wc
+chmod
+zip/unzip
+tar
+start/stop
+netstat
+useradd/userdel
+groupadd/groupdel
+modify user
+Hostname -l
+
